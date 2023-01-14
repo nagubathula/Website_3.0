@@ -1,0 +1,26 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../BIOS-hardware-landingpage/src"
+	},
+	{
+		"path": "../BIOS-hardware-landingpage/src/css"
+	},
+	{
+		"path": "../BIOS-hardware-landingpage/src/images"
+	},
+	{
+		"path": "../BIOS-hardware-landingpage/src/pages"
+	},
+	{
+		"path": "../BIOS-hardware-landingpage/src/partials"
+	},
+	{
+		"path": "../BIOS-hardware-landingpage/src/utils"
+	}
+],
+  "settings": {}
+}
