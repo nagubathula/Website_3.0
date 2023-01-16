@@ -165,7 +165,7 @@ function HeroHome() {
           ) : null}
 
           {/* Hero image */}
-          <div>
+          {/* <div>
             <div
               className="relative flex justify-center mb-8"
               data-aos="zoom-y-out"
@@ -267,7 +267,7 @@ function HeroHome() {
               </button>
             </div>
 
-            {/* Modal */}
+          
             <Modal
               id="modal"
               ariaLabel="modal-headline"
@@ -283,7 +283,7 @@ function HeroHome() {
                 ></iframe>
               </div>
             </Modal>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

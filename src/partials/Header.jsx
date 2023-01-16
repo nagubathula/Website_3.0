@@ -12,7 +12,7 @@ const TopBar = () => {
           <div className="flex items-center justify-between py-2 md:block">
             <a href="#">
               <div className="flex flex-row gap-2">
-                <img src="src/images/bios.png" alt={"logo"} className="w-32" />
+                <img src="src/images/whitelogo.jpeg" alt={"logo"} className="w-32" />
               </div>
             </a>
             {/* HAMBURGER BUTTON FOR MOBILE */}
